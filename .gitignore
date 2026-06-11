@@ -1,2 +1,4 @@
 .sandbox/
+.asset/
+.screenshot/
 .DS_Store
